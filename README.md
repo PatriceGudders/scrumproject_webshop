@@ -19,5 +19,5 @@
 ---
 
 ## Voorbeeld 
-![Voorbeeld](scrumproject_webshop/images/screen_scrumPrularia.png)
+![Voorbeeld](webshopPrularia/images/screen_scrumPrularia.png)
 
